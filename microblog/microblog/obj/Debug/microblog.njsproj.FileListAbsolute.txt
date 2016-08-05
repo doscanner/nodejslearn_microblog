@@ -1,0 +1,2 @@
+D:\NodeJSLearn\microblog1\microblog\obj\Debug\microblog.njsprojResolveAssemblyReference.cache
+D:\NodeJSLearn\microblog1\microblog\bin\Microsoft.NodejsTools.WebRole.dll
